@@ -5,6 +5,7 @@ import { getFirestore } from "firebase/firestore/lite";
 import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+//If you cloning this app, Please use your own api key
 const firebaseConfig = {
   apiKey: "AIzaSyBMk57LRXIHCXpFN5RuZCiLybVXsVGnX5A",
   authDomain: "simple-todo-82dd0.firebaseapp.com",
